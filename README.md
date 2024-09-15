@@ -1,2 +1,1 @@
-# CODSOFT_task-3
-This is a repository created to submit the CODSOFT internship projects' codes My name is S.Shalini I am a B.tech Artificial Intelligence and Data Science student. I am currently in the 2nd year of my college studies. I am doing an intenship in CODSOFT. This internship is based on Data science domain. I've submitted the codes of my intenship projects in the repository
+This repository contains the code and dataset for Iris flower species classifier model. This model classifies the iris flowers under three species namely iris setosa, iris virginica and iris versicolor. The classification is done based on the metrics such as Petal length and width, sepal length and width, etc
